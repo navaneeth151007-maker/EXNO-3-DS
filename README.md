@@ -95,7 +95,7 @@ power_data.to_csv("PowerTransformed_Data.csv", index=False)
 
 ```
 # RESULT
-The above program and output to Feature Encoding and Transformation
+The above code and output for the Feature Encoding and Transformation
        
 
        
